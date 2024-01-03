@@ -1,0 +1,2735 @@
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:Region2RegionNet(
+  (context_encoder): R2RConvolutionalVisionTransformer(
+    (stage0): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(3, 64, kernel_size=(7, 7), stride=(4, 4), padding=(2, 2))
+        (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=64, out_features=64, bias=True)
+            (proj_k): Linear(in_features=64, out_features=64, bias=True)
+            (proj_v): Linear(in_features=64, out_features=64, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=64, out_features=64, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=64, out_features=256, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=256, out_features=64, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage1): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(64, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0-1): 2 x Block(
+          (norm1): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=192, out_features=192, bias=True)
+            (proj_k): Linear(in_features=192, out_features=192, bias=True)
+            (proj_v): Linear(in_features=192, out_features=192, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=192, out_features=192, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=192, out_features=768, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=768, out_features=192, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage2): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(192, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (1): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.011)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (2): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.022)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (3): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.033)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (4): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.044)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (5): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.056)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (6): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.067)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (7): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.078)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (8): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.089)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (9): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.100)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage3): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention_v5(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (attend): Softmax(dim=-1)
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (mask_addon): Sequential(
+              (0): Conv2d(384, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (1): ReLU()
+              (2): Conv2d(6, 6, kernel_size=(1, 1), stride=(1, 1), groups=6)
+              (3): Softmax2d()
+            )
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+  )
+  (last_layer): Linear(in_features=384, out_features=14, bias=True)
+)
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:Region2RegionNet(
+  (context_encoder): R2RConvolutionalVisionTransformer(
+    (stage0): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(3, 64, kernel_size=(7, 7), stride=(4, 4), padding=(2, 2))
+        (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=64, out_features=64, bias=True)
+            (proj_k): Linear(in_features=64, out_features=64, bias=True)
+            (proj_v): Linear(in_features=64, out_features=64, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=64, out_features=64, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=64, out_features=256, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=256, out_features=64, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage1): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(64, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0-1): 2 x Block(
+          (norm1): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=192, out_features=192, bias=True)
+            (proj_k): Linear(in_features=192, out_features=192, bias=True)
+            (proj_v): Linear(in_features=192, out_features=192, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=192, out_features=192, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=192, out_features=768, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=768, out_features=192, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage2): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(192, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (1): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.011)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (2): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.022)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (3): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.033)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (4): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.044)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (5): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.056)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (6): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.067)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (7): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.078)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (8): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.089)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (9): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.100)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage3): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention_v5(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (attend): Softmax(dim=-1)
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (mask_addon): Sequential(
+              (0): Conv2d(384, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (1): ReLU()
+              (2): Conv2d(6, 6, kernel_size=(1, 1), stride=(1, 1), groups=6)
+              (3): Softmax2d()
+            )
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+  )
+  (last_layer): Linear(in_features=384, out_features=14, bias=True)
+)
+INFO:root:[  0/100] T  99/2704 [WeightedBalanceLoss: 3.7738][loss: 3.7738][auc: 0.5404]
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:Region2RegionNet(
+  (context_encoder): R2RConvolutionalVisionTransformer(
+    (stage0): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(3, 64, kernel_size=(7, 7), stride=(4, 4), padding=(2, 2))
+        (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=64, out_features=64, bias=True)
+            (proj_k): Linear(in_features=64, out_features=64, bias=True)
+            (proj_v): Linear(in_features=64, out_features=64, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=64, out_features=64, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=64, out_features=256, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=256, out_features=64, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage1): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(64, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0-1): 2 x Block(
+          (norm1): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=192, out_features=192, bias=True)
+            (proj_k): Linear(in_features=192, out_features=192, bias=True)
+            (proj_v): Linear(in_features=192, out_features=192, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=192, out_features=192, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=192, out_features=768, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=768, out_features=192, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage2): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(192, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (1): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.011)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (2): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.022)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (3): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.033)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (4): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.044)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (5): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.056)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (6): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.067)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (7): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.078)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (8): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.089)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (9): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.100)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage3): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention_v5(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (attend): Softmax(dim=-1)
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (mask_addon): Sequential(
+              (0): Conv2d(384, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (1): ReLU()
+              (2): Conv2d(6, 6, kernel_size=(1, 1), stride=(1, 1), groups=6)
+              (3): Softmax2d()
+            )
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+  )
+  (last_layer): Linear(in_features=384, out_features=14, bias=True)
+)
+INFO:root:[  0/100] T  99/2704 [WeightedBalanceLoss: 2.8965][loss: 2.8965][auc: 0.5597]
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:=> init weight of Linear from trunc norm
+INFO:root:=> init bias of Linear to zeros
+INFO:root:Region2RegionNet(
+  (context_encoder): R2RConvolutionalVisionTransformer(
+    (stage0): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(3, 64, kernel_size=(7, 7), stride=(4, 4), padding=(2, 2))
+        (norm): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(64, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=64, bias=False)
+              (bn): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=64, out_features=64, bias=True)
+            (proj_k): Linear(in_features=64, out_features=64, bias=True)
+            (proj_v): Linear(in_features=64, out_features=64, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=64, out_features=64, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((64,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=64, out_features=256, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=256, out_features=64, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage1): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(64, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0-1): 2 x Block(
+          (norm1): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(192, 192, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=192, bias=False)
+              (bn): BatchNorm2d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=192, out_features=192, bias=True)
+            (proj_k): Linear(in_features=192, out_features=192, bias=True)
+            (proj_v): Linear(in_features=192, out_features=192, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=192, out_features=192, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((192,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=192, out_features=768, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=768, out_features=192, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage2): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(192, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (1): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.011)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (2): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.022)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (3): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.033)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (4): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.044)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (5): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.056)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (6): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.067)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (7): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.078)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (8): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.089)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+        (9): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_k): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (conv_proj_v): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+              (rearrage): Rearrange('b c h w -> b (h w) c')
+            )
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (proj_k): Linear(in_features=384, out_features=384, bias=True)
+            (proj_v): Linear(in_features=384, out_features=384, bias=True)
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): DropPath(drop_prob=0.100)
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (stage3): VisionTransformer(
+      (patch_embed): ConvEmbed(
+        (proj): Conv2d(384, 384, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+        (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+      )
+      (pos_drop): Dropout(p=0.0, inplace=False)
+      (blocks): ModuleList(
+        (0): Block(
+          (norm1): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (attn): Attention_v5(
+            (conv_proj_q): Sequential(
+              (conv): Conv2d(384, 384, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), groups=384, bias=False)
+              (bn): BatchNorm2d(384, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+            )
+            (attend): Softmax(dim=-1)
+            (proj_q): Linear(in_features=384, out_features=384, bias=True)
+            (mask_addon): Sequential(
+              (0): Conv2d(384, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+              (1): ReLU()
+              (2): Conv2d(6, 6, kernel_size=(1, 1), stride=(1, 1), groups=6)
+              (3): Softmax2d()
+            )
+            (attn_drop): Dropout(p=0.0, inplace=False)
+            (proj): Linear(in_features=384, out_features=384, bias=True)
+            (proj_drop): Dropout(p=0.0, inplace=False)
+          )
+          (drop_path): Identity()
+          (norm2): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+          (mlp): Mlp(
+            (fc1): Linear(in_features=384, out_features=1536, bias=True)
+            (act): GELU(approximate='none')
+            (fc2): Linear(in_features=1536, out_features=384, bias=True)
+            (drop): Dropout(p=0.0, inplace=False)
+          )
+        )
+      )
+    )
+    (norm): LayerNorm((384,), eps=1e-05, elementwise_affine=True)
+  )
+  (last_layer): Linear(in_features=384, out_features=14, bias=True)
+)
+INFO:root:[  0/100] T  99/2704 [WeightedBalanceLoss: 3.3014][loss: 3.3014][auc: 0.5561]
